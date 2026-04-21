@@ -11,7 +11,7 @@
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/VISHNU7KASIREDDY?label=Follow&style=social)](https://github.com/VISHNU7KASIREDDY)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/vishnu-k-86810a334/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-k-86810a334/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vishnukasireddy28@gmail.com)
 
 </div>
