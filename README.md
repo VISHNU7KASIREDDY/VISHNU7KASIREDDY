@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VISHNU7KASIREDDY&label=Profile%20Views&color=0e75b6&style=flat)
 
-# 🚀 Vishnu Kasireddy
+#  Vishnu Kasireddy
 
 <div>
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+Intelligent+Solutions">
@@ -11,15 +11,14 @@
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/VISHNU7KASIREDDY?label=Follow&style=social)](https://github.com/VISHNU7KASIREDDY)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=twitter)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/vishnu-k-86810a334/))
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vishnukasireddy28@gmail.com)
 
 </div>
 
 ---
 
-## 💫 About Me
+##  About Me
 
 I'm a passionate **Full-Stack Developer** and **AI/ML Enthusiast** with a keen interest in building intelligent solutions that bridge cutting-edge AI technology with practical real-world applications. My expertise spans from **RAG systems** and **LLM integrations** to modern **web development** with React and TypeScript.
 
